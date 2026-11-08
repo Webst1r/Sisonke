@@ -1,0 +1,14 @@
+{
+  "name": "Sisonke – Every rand, in the open",
+  "short_name": "Sisonke",
+  "description": "Open records for stokvels and burial societies.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#234e3c",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
